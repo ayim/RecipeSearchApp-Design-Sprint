@@ -4,7 +4,7 @@ This is a .NET MAUI application that runs on Android, iOS, Windows, and Mac. The
 
 ## Prerequisites
 
-- .NET 6.0 SDK or later
+- .NET 9.0 SDK or later
 - Visual Studio 2022 with .NET MAUI workload installed
 - Android Emulator or physical device for Android development
 - Xcode and iOS Simulator or physical device for iOS development
@@ -13,7 +13,7 @@ This is a .NET MAUI application that runs on Android, iOS, Windows, and Mac. The
 
 ## Setting Up the Development Environment
 
-1. Install the .NET 6.0 SDK or later from the [official .NET website](https://dotnet.microsoft.com/download).
+1. Install the .NET 9.0 SDK or later from the [official .NET website](https://dotnet.microsoft.com/download).
 2. Install Visual Studio 2022 with the .NET MAUI workload. You can download Visual Studio 2022 from the [official Visual Studio website](https://visualstudio.microsoft.com/).
 3. For Android development, set up an Android Emulator or connect a physical Android device.
 4. For iOS development, install Xcode from the App Store and set up an iOS Simulator or connect a physical iOS device.
@@ -49,7 +49,7 @@ This is a .NET MAUI application that runs on Android, iOS, Windows, and Mac. The
 
 ## Dependencies
 
-- .NET 6.0 SDK or later
+- .NET 9.0 SDK or later
 - Visual Studio 2022 with .NET MAUI workload
 - Android Emulator or physical device for Android development
 - Xcode and iOS Simulator or physical device for iOS development
